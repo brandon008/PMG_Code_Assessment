@@ -1,0 +1,14 @@
+{
+  "name": "csv-combiner",
+  "version": "1.0.0",
+  "description": "CSVcombiner",
+  "main": "CSVcombiner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Borden",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
